@@ -37,9 +37,28 @@
 	    color: white;
     font-size: 50px;
     position: absolute;
-    right: 35%;
-    top: 120px;
+   margin-right: 40%;
+    margin-top: 12px;
+    margin-left: 315px;
 }
 #background-big-words-center{
 	margin-left: 20%;
+}
+#background-small-words-center{
+    margin-left: 20%;
+    font-size: 14px;
+    margin-left: 60px;
+}
+#button-green{
+        position: absolute;
+    font-size: 15px;
+    color: white;
+    top: 80%;
+    margin-left: 36%;
+}
+#btn-text{
+    background: green;
+    padding: 10px;
+    
+}
 }
