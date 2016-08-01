@@ -25,3 +25,10 @@
 	margin-top:-30px;
 	color: black;
 }
+#background-header{
+	background: url(../images/macbook-laptop-background.jpg);
+	width: 102%;
+	height:500px;
+	margin-top: 50px;
+	margin-left: -8px;
+}
